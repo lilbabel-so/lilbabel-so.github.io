@@ -1,5 +1,5 @@
 # Hugo configuration file
-baseURL: "https://libbabel.so"
+baseURL: "https://lilbabel-so.github.io/"
 title: "Library of Babel"
 
 enableRobotsTxt: true
